@@ -1,0 +1,33 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "titre": "Inception",
+      "genre": "Science-fiction",
+      "duree": 148,
+      "image": "squid(1).jpg"
+    },
+    {
+      "id": 2,
+      "titre": "Toy Story",
+      "genre": "Animation",
+      "duree": 81,
+      "image": "squid(2).jpg"
+    },
+    {
+      "id": 3,
+      "titre": "The Dark Knight",
+      "genre": "Action",
+      "duree": 152,
+      "image": "squid(4).jpg"
+    },
+    {
+      "id": 4,
+      "titre": "La La Land",
+      "genre": "Comédie musicale",
+      "duree": 128,
+      "image": "squid(3).jpg"
+    }
+   
+  ]
+}
